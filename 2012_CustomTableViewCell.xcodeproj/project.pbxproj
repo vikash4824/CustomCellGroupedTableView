@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		654934202605B2E0008E76FF /* SimpleTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6549341F2605B2E0008E76FF /* SimpleTableViewCell.swift */; };
+		654934262605C99C008E76FF /* KollyWoodTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 654934242605C99C008E76FF /* KollyWoodTableViewCell.swift */; };
+		654934272605C99C008E76FF /* KollyWoodTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 654934252605C99C008E76FF /* KollyWoodTableViewCell.xib */; };
 		65EBE0EA2604657800F09985 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65EBE0E92604657800F09985 /* AppDelegate.swift */; };
 		65EBE0EC2604657800F09985 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65EBE0EB2604657800F09985 /* SceneDelegate.swift */; };
 		65EBE0EE2604657800F09985 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65EBE0ED2604657800F09985 /* ViewController.swift */; };
@@ -15,6 +18,14 @@
 		65EBE0F62604657D00F09985 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65EBE0F42604657D00F09985 /* LaunchScreen.storyboard */; };
 		65EBE1012604657E00F09985 /* _012_CustomTableViewCellTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65EBE1002604657E00F09985 /* _012_CustomTableViewCellTests.swift */; };
 		65EBE10C2604657E00F09985 /* _012_CustomTableViewCellUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65EBE10B2604657E00F09985 /* _012_CustomTableViewCellUITests.swift */; };
+		65EBE11D2604664800F09985 /* Movies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65EBE11C2604664800F09985 /* Movies.swift */; };
+		65EBE123260466A000F09985 /* TollyWoodCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65EBE121260466A000F09985 /* TollyWoodCell.swift */; };
+		65EBE124260466A000F09985 /* TollyWoodCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 65EBE122260466A000F09985 /* TollyWoodCell.xib */; };
+		65EBE12A26046A5F00F09985 /* BollyWoodCustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65EBE12826046A5F00F09985 /* BollyWoodCustomCell.swift */; };
+		65EBE12B26046A5F00F09985 /* BollyWoodCustomCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 65EBE12926046A5F00F09985 /* BollyWoodCustomCell.xib */; };
+		65EBE13126046CD900F09985 /* HollyWoodCustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65EBE12F26046CD900F09985 /* HollyWoodCustomCell.swift */; };
+		65EBE13226046CD900F09985 /* HollyWoodCustomCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 65EBE13026046CD900F09985 /* HollyWoodCustomCell.xib */; };
+		65EBE13F2604C28E00F09985 /* SecontPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65EBE13E2604C28E00F09985 /* SecontPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +46,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6549341F2605B2E0008E76FF /* SimpleTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleTableViewCell.swift; sourceTree = "<group>"; };
+		654934242605C99C008E76FF /* KollyWoodTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KollyWoodTableViewCell.swift; sourceTree = "<group>"; };
+		654934252605C99C008E76FF /* KollyWoodTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = KollyWoodTableViewCell.xib; sourceTree = "<group>"; };
 		65EBE0E62604657700F09985 /* 2012_CustomTableViewCell.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 2012_CustomTableViewCell.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65EBE0E92604657800F09985 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65EBE0EB2604657800F09985 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +63,14 @@
 		65EBE1072604657E00F09985 /* 2012_CustomTableViewCellUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 2012_CustomTableViewCellUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		65EBE10B2604657E00F09985 /* _012_CustomTableViewCellUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _012_CustomTableViewCellUITests.swift; sourceTree = "<group>"; };
 		65EBE10D2604657E00F09985 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65EBE11C2604664800F09985 /* Movies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movies.swift; sourceTree = "<group>"; };
+		65EBE121260466A000F09985 /* TollyWoodCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TollyWoodCell.swift; sourceTree = "<group>"; };
+		65EBE122260466A000F09985 /* TollyWoodCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TollyWoodCell.xib; sourceTree = "<group>"; };
+		65EBE12826046A5F00F09985 /* BollyWoodCustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BollyWoodCustomCell.swift; sourceTree = "<group>"; };
+		65EBE12926046A5F00F09985 /* BollyWoodCustomCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BollyWoodCustomCell.xib; sourceTree = "<group>"; };
+		65EBE12F26046CD900F09985 /* HollyWoodCustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HollyWoodCustomCell.swift; sourceTree = "<group>"; };
+		65EBE13026046CD900F09985 /* HollyWoodCustomCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HollyWoodCustomCell.xib; sourceTree = "<group>"; };
+		65EBE13E2604C28E00F09985 /* SecontPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecontPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,12 +122,23 @@
 			isa = PBXGroup;
 			children = (
 				65EBE0E92604657800F09985 /* AppDelegate.swift */,
+				6549341F2605B2E0008E76FF /* SimpleTableViewCell.swift */,
 				65EBE0EB2604657800F09985 /* SceneDelegate.swift */,
 				65EBE0ED2604657800F09985 /* ViewController.swift */,
+				65EBE121260466A000F09985 /* TollyWoodCell.swift */,
+				65EBE122260466A000F09985 /* TollyWoodCell.xib */,
 				65EBE0EF2604657800F09985 /* Main.storyboard */,
+				65EBE13E2604C28E00F09985 /* SecontPage.swift */,
 				65EBE0F22604657D00F09985 /* Assets.xcassets */,
 				65EBE0F42604657D00F09985 /* LaunchScreen.storyboard */,
 				65EBE0F72604657D00F09985 /* Info.plist */,
+				65EBE11C2604664800F09985 /* Movies.swift */,
+				65EBE12826046A5F00F09985 /* BollyWoodCustomCell.swift */,
+				65EBE12926046A5F00F09985 /* BollyWoodCustomCell.xib */,
+				65EBE12F26046CD900F09985 /* HollyWoodCustomCell.swift */,
+				65EBE13026046CD900F09985 /* HollyWoodCustomCell.xib */,
+				654934242605C99C008E76FF /* KollyWoodTableViewCell.swift */,
+				654934252605C99C008E76FF /* KollyWoodTableViewCell.xib */,
 			);
 			path = 2012_CustomTableViewCell;
 			sourceTree = "<group>";
@@ -231,9 +264,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65EBE13226046CD900F09985 /* HollyWoodCustomCell.xib in Resources */,
 				65EBE0F62604657D00F09985 /* LaunchScreen.storyboard in Resources */,
+				654934272605C99C008E76FF /* KollyWoodTableViewCell.xib in Resources */,
 				65EBE0F32604657D00F09985 /* Assets.xcassets in Resources */,
 				65EBE0F12604657800F09985 /* Main.storyboard in Resources */,
+				65EBE12B26046A5F00F09985 /* BollyWoodCustomCell.xib in Resources */,
+				65EBE124260466A000F09985 /* TollyWoodCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,9 +295,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65EBE12A26046A5F00F09985 /* BollyWoodCustomCell.swift in Sources */,
 				65EBE0EE2604657800F09985 /* ViewController.swift in Sources */,
 				65EBE0EA2604657800F09985 /* AppDelegate.swift in Sources */,
+				65EBE123260466A000F09985 /* TollyWoodCell.swift in Sources */,
+				654934262605C99C008E76FF /* KollyWoodTableViewCell.swift in Sources */,
+				65EBE13F2604C28E00F09985 /* SecontPage.swift in Sources */,
+				65EBE11D2604664800F09985 /* Movies.swift in Sources */,
+				654934202605B2E0008E76FF /* SimpleTableViewCell.swift in Sources */,
 				65EBE0EC2604657800F09985 /* SceneDelegate.swift in Sources */,
+				65EBE13126046CD900F09985 /* HollyWoodCustomCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -434,7 +478,7 @@
 		65EBE1112604657E00F09985 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = QJ38K4FTCM;
@@ -443,7 +487,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "vikash.-012-CustomTableViewCell";
+				PRODUCT_BUNDLE_IDENTIFIER = com.2012.vamsivikash24.83;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -453,7 +497,7 @@
 		65EBE1122604657E00F09985 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = QJ38K4FTCM;
@@ -462,7 +506,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "vikash.-012-CustomTableViewCell";
+				PRODUCT_BUNDLE_IDENTIFIER = com.2012.vamsivikash24.83;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
